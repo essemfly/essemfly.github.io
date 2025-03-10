@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[583],{623:(e,r,s)=>{s.r(r),s.d(r,{default:()=>a});var t=s(6347);s(797),s(9303);var u=s(4848);function a(){return(0,u.jsx)(t.rd,{to:"/career"})}}}]);
