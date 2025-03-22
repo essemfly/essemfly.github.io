@@ -28,6 +28,11 @@ title: "Career Journey"
   - 기술 스택: `TypeScript`, `Next.js`, `Supabase`, `LLM`, `Langchain`
   - [documenttranslator.ai](https://app.documenttranslator.ai/)
 
+- **여행유튜버들의 여행 동영상 개발** (2025.03 - 2025.03)
+  - 여행유튜버들의 업로드하는 유튜브 영상들을 국가 및 지도와 함께 검색 제공
+  - 기술 스택: `TypeScript`, `Remix`, `LLM` 
+  - [traveler.shout-out.org](https://traveler.shout-out.org/)
+
 - **유튜브 및 블로그 맛집 리스트 공유 사이트 개발** (2024.05 - 2024.12)
   - 유튜브 맛집 정보를 네이버 지도와 연동하여 개인화된 리스트로 제공
   - 마케팅 없이 자발적으로 15,000 뷰, 3,200명 이상 사용
